@@ -6,7 +6,7 @@ import sys
 # DON\'T CHANGE THE LINES BELOW
 # This is to allow the app to be run from the project root
 current_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.abspath(os.path.join(current_dir, \'..\'))
+project_root = os.path.abspath(os.path.join(current_dir, '..'))
 sys.path.append(project_root)
 # DON\'T CHANGE THE LINES ABOVE
 
