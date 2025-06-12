@@ -233,7 +233,7 @@ Você agora possui um **sistema profissional e completo** para gerenciar seu est
 
 ---
 
-*Desenvolvido com dedicação pela Manus AI*  
+*Desenvolvido com dedicação por José Casé*  
 *Junho 2025*
 
 **🚀 Sucesso com seu novo sistema de estoque! 🚀**
