@@ -18,7 +18,7 @@ from src.models.database import db
 from src.routes.produtos import produtos_bp
 from src.routes.pedidos import pedidos_bp
 from src.routes.usuarios import usuarios_bp
-from src.routes.mercadolivre import mercadolivre_bp
+from src.routes.mercadolivre import ml_bp as mercadolivre_bp
 from src.routes.auth import auth_bp
 
 app = Flask(__name__)
