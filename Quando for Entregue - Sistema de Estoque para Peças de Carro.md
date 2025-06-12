@@ -1,8 +1,5 @@
-# 🎉 ENTREGA FINAL - Sistema de Estoque para Peças de Carro
+# Vendas Fácil - Peças -> Sistema de Estoque para Peças de Carro
 
-**Data de Entrega:** 11 de Junho de 2025  
-**Desenvolvido por:** Manus AI  
-**Status:** ✅ COMPLETO E PRONTO PARA USO  
 
 ---
 
