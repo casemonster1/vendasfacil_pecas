@@ -1,7 +1,9 @@
 # Vendas Fácil - Peças -> Sistema de Estoque para Peças de Carro
 
+Para o momento da Entrega - Descrição de todo o projeto
 
 ---
+# Resumo feito por IA
 
 ## 📦 O Que Foi Entregue
 
